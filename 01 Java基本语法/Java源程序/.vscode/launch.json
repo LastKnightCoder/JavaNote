@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Person",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "Java源程序_fde0226c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TestArray",
             "request": "launch",
             "mainClass": "TestArray",
