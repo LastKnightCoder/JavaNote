@@ -21,8 +21,6 @@
 - `toArray`
   - 返回一个`Onject`类型的数组
 
-
-
 下面我们以`ArrayList`为例来学习上面的方法
 
 ```java

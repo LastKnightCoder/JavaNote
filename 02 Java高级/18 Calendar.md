@@ -18,8 +18,6 @@ Calendar calendar = Calendar.getInstance();
 - `getTime()`
   - 返回当前日历对应得`Date`对象
 
-
-
 下面简单演示方法的使用
 
 ```java

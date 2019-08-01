@@ -13,8 +13,6 @@
 - `sort(List<T> list, Comparator<? super T> c)`
   - 接收一个`List`集合和一个实现`Comparator`接口的类的对象，可以传入匿名类
 
-
-
 下面演示方法的使用
 
 - `addAll`

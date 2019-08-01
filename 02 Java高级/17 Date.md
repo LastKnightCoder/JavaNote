@@ -30,8 +30,6 @@ Sat Jul 20 19:26:26 CST 2019
 
 可见`Date`类重写了`toString()`方法。
 
-
-
 `Date`类有一个`getTime`的方法，它可以获得该`date`对象对应的毫秒值，现在我们通过这个方法获得一个毫秒值，然后利用该毫秒值作为第二个构造函数的参数
 
 ```java
@@ -61,8 +59,6 @@ Sat Jul 20 19:29:24 CST 2019
 
 上面的时间输出其实不符合我们的使用习惯，所以我们可以让输出的日期符合我们的使用习惯。`DateFormat`这个类是为此而存在的，不过它是一个抽象类，`SimpleDateFormat`类继承了该类，我们可以使用该类格式化日期输出。
 
-
-
 首先就是如何创建一个对象，如下
 
 ```java
@@ -76,8 +72,6 @@ SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy年MM月dd日");
 ```
 
 `"yyyy年MM月dd日"`就是模式，差不多就是模板吧，也就是你想要格式化输出的格式，其中`yyyy`代表年，`MM`代表月，`dd`代表日，`HH`代表小时，`mm`代表分，`ss`代表秒。
-
-
 
 这里主要介绍它的两个方法
 
