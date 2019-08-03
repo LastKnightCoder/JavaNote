@@ -10,8 +10,6 @@
   - 对于`String`，按字母在`Unicode`表中的大小排序
   - 对于自定义的类型，需要`Comparable`或`Comparator`接口的支持
 
-
-
 下面演示两个方法的使用
 
 ```java

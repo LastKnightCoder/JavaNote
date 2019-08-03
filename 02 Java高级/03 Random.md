@@ -5,11 +5,7 @@
 - `nextInt()`：产生一个随机整数，范围时整个`int`的大小
 - `nextInt(int n)`：产生一个`[0,n-1)`的整数，左闭右开。
 
-下面将介绍`Random`的使用。
-
-
-
-下面这个程序将产生`10`个随机整数，范围为整个`int`整数的范围
+下面将介绍`Random`的使用。下面这个程序将产生`10`个随机整数，范围为整个`int`整数的范围
 
 ```java
 import java.util.Random;
@@ -30,8 +26,6 @@ public class TestRandom {
 <img src="images/TestRandom.gif">
 
 可见产生的整数是随机的，并且范围时整个`int`的范围，正值和负值都有。
-
-
 
 下面这个程序将产生`10`范围为`1-10`的随机整数
 

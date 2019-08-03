@@ -156,12 +156,11 @@ public class TestFile {
 }
 ```
 
-## 判断功能
+### 判断功能
 
 与判断功能有关的方法有三个
 
 - `exists()`
-
   - 判断传入构造方法的路径是否存在
 - `isDirectory()`
 
@@ -183,7 +182,7 @@ System.out.println(file.isDirectory()); //false
 System.out.println(file.isFile()); //true
 ```
 
-## 创建删除
+### 创建删除
 
 与创建和删除有关的方法有四个
 
