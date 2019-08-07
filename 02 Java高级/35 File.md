@@ -236,7 +236,7 @@ public class TestFileMethod {
 - `list()`
   - 返回一个字符串数组，这些字符串是文件名或文件夹名
 - `listFiles()`
-  - 返回时的`File`类对象
+  - 返回时的`File`类对象数组
 
 **注意：**
 
