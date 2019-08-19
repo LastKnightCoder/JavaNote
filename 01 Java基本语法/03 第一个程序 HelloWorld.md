@@ -2,8 +2,6 @@
 
 下面将书写`Java`的第一个程序，它的作用是在命令行输出`Hello World!`。
 
-
-
 新建一个文件，文件名为`HelloWorld.java`，使用记事本或其他代码编辑工具打开，敲入以下代码
 
 ```java
@@ -23,8 +21,6 @@ java HelloWorld
 
 然后就可以在命令行中看到`Hello World!`输出了。
 
-
-
 **注意事项：**
 
 - `class`后面的`HelloWorld`要与文件名一样，包括大小写
@@ -32,8 +28,6 @@ java HelloWorld
   - 第一种，使用`cd`命令切换到`HelloWorld.java`文件的目录
   - 第二种，`javac`或者`java`命令后跟上`HelloWorld.java`的完整路径名称
 - `javac`命令后面有后缀`.java`，`java`命令后面没有任何的后缀
-
-
 
 现在稍微解释上面程序的意思，因为刚刚起步，很多东西现在都解释不了，所以在这里并不要求弄懂。第一行
 

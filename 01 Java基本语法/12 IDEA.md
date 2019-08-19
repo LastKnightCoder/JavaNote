@@ -28,9 +28,7 @@
 
 `Alt + Shift + 上下箭头`，移动当前行代码
 
-
-
-如何导入`Modele`
+##如何导入Modele
 
 `File - Project Strcture - import module`
 
